@@ -35,6 +35,6 @@ This is a simple Java-based console application where the computer randomly sele
 
 ## 🧠 Learning Objectives
 
--Understand how to generate random numbers using Math.random()
--Practice using loops and conditionals in Java
--Work with the Scanner class for user input
+- Understand how to generate random numbers using Math.random()
+- Practice using loops and conditionals in Java
+- Work with the Scanner class for user input
